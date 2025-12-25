@@ -1,0 +1,14 @@
+/target
+/target_linux
+/target_wasm
+/dist
+/dist_web
+**/*.rs.bk
+Cargo.lock
+.gemini
+eight_queens_linux
+EightQueens.exe
+EightQueens_Debug.exe
+.agent
+/.cargo/config.toml.bak
+"CUsersmasoud.geminicargo_target"
